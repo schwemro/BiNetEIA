@@ -6,7 +6,7 @@ Date: 2019-05-03
 Author: Robin Schwemmle
 Maintainer: Robin Schwemmle <robin.schwemmle@hydrology.uni-freiburg.de>
 Description: ...
-License: GPL-2
+License: GPL-3
 LazyData: FALSE
 Depends: R (>= 3.4.2)
 Imports:
