@@ -1,0 +1,17 @@
+Package: BiNetEIA
+Type: Package
+Version: 0.1.0
+Title: Visual and Statistical Tools to Analyse and Interpret the Interaction Matrix from Environmental Impact Assessment (EIA) as a Bipartite Network 
+Date: 2019-05-03
+Author: Robin Schwemmle
+Maintainer: Robin Schwemmle <robin.schwemmle@hydrology.uni-freiburg.de>
+Description: ...
+License: GPL-2
+LazyData: FALSE
+Depends: R (>= 3.4.2)
+Imports:
+  igraph (>= 1.1.2),
+  tnet (>= 3.0.14),
+  stringr (>= 1.2.0),
+  moments (>= 0.14)
+RoxygenNote: 6.0.1
