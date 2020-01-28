@@ -7,6 +7,7 @@ This is a repository which contains the R-Package *BiNetEIA*. The package has no
 In case you use de in other software or scientific publications,
 please reference this module. It is published and has a DOI. It can be cited
 as:
+
   Schwemmle, R., and Perona, P.: Highlighting action and environmental component interactions using a
   network theory approach, Impact Assessment and Project Appraisal, 1-16,
   [10.1080/14615517.2019.1704113](https://doi.org/10.1080/14615517.2019.1704113), 2020.
