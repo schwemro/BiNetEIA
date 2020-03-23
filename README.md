@@ -1,5 +1,7 @@
 # BiNetEIA
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3724651.svg)](https://doi.org/10.5281/zenodo.3724651)
+
 This is a repository which contains the R-Package *BiNetEIA*. The package has not been uploaded yet to the CRAN repository. In order to use it, you can clone the repository and build it in RStudio.
 
 ## How to cite
